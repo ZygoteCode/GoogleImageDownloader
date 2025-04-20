@@ -1,0 +1,14 @@
+C:\Users\bolog\Desktop\GoogleImageDownloader\bin\Release\net9.0\GoogleImageDownloader.exe
+C:\Users\bolog\Desktop\GoogleImageDownloader\bin\Release\net9.0\GoogleImageDownloader.deps.json
+C:\Users\bolog\Desktop\GoogleImageDownloader\bin\Release\net9.0\GoogleImageDownloader.runtimeconfig.json
+C:\Users\bolog\Desktop\GoogleImageDownloader\bin\Release\net9.0\GoogleImageDownloader.dll
+C:\Users\bolog\Desktop\GoogleImageDownloader\bin\Release\net9.0\GoogleImageDownloader.pdb
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.AssemblyInfoInputs.cache
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.AssemblyInfo.cs
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.dll
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\refint\GoogleImageDownloader.dll
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.pdb
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\GoogleImageDownloader.genruntimeconfig.cache
+C:\Users\bolog\Desktop\GoogleImageDownloader\obj\Release\net9.0\ref\GoogleImageDownloader.dll
